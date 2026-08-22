@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="142" viewBox="0 0 1000 142" role="img" aria-label="Core technology stack">
+  <defs>
+    <linearGradient id="line" x1="0" x2="1"><stop stop-color="#8b5cf6"/><stop offset=".5" stop-color="#3b82f6"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  </defs>
+  <rect width="1000" height="142" rx="20" fill="#0d1117"/>
+  <rect x="30" y="27" width="940" height="88" rx="18" fill="#121925" stroke="#263247"/>
+  <rect x="48" y="45" width="92" height="52" rx="13" fill="#211b16"/><text x="94" y="68" text-anchor="middle" fill="#f89820" font-family="Segoe UI,Arial" font-size="17" font-weight="700">JAVA</text><text x="94" y="86" text-anchor="middle" fill="#94a3b8" font-family="Segoe UI,Arial" font-size="10">17+</text>
+  <rect x="150" y="45" width="110" height="52" rx="13" fill="#14251a"/><circle cx="174" cy="71" r="11" fill="#6db33f"/><path d="M169 73c5-8 11-7 13-10-1 9-6 14-14 14" fill="none" stroke="white" stroke-width="2"/><text x="220" y="76" text-anchor="middle" fill="#d9f99d" font-family="Segoe UI,Arial" font-size="13" font-weight="700">SPRING</text>
+  <rect x="270" y="45" width="100" height="52" rx="13" fill="#18181b"/><circle cx="294" cy="71" r="4" fill="#fff"/><circle cx="308" cy="59" r="4" fill="#fff"/><circle cx="308" cy="83" r="4" fill="#fff"/><path d="M298 69l7-7m-7 11 7 7" stroke="#fff" stroke-width="2"/><text x="340" y="76" text-anchor="middle" fill="#e4e4e7" font-family="Segoe UI,Arial" font-size="12" font-weight="700">KAFKA</text>
+  <rect x="380" y="45" width="105" height="52" rx="13" fill="#102235"/><ellipse cx="405" cy="62" rx="12" ry="5" fill="#4479a1"/><path d="M393 62v17c0 7 24 7 24 0V62" fill="#4479a1"/><text x="450" y="76" text-anchor="middle" fill="#bfdbfe" font-family="Segoe UI,Arial" font-size="12" font-weight="700">MYSQL</text>
+  <rect x="495" y="45" width="105" height="52" rx="13" fill="#10253a"/><path d="M515 64h24v13c-6 8-18 8-24 0z" fill="#2496ed"/><rect x="519" y="57" width="6" height="6" fill="#60a5fa"/><rect x="527" y="57" width="6" height="6" fill="#60a5fa"/><text x="566" y="76" text-anchor="middle" fill="#bfdbfe" font-family="Segoe UI,Arial" font-size="12" font-weight="700">DOCKER</text>
+  <rect x="610" y="45" width="92" height="52" rx="13" fill="#241c13"/><text x="656" y="72" text-anchor="middle" fill="#ff9900" font-family="Segoe UI,Arial" font-size="18" font-weight="800">aws</text><path d="M638 78c12 7 26 7 38 0" fill="none" stroke="#ff9900" stroke-width="2"/>
+  <rect x="712" y="45" width="105" height="52" rx="13" fill="#10233e"/><rect x="728" y="57" width="28" height="28" rx="4" fill="#3178c6"/><text x="742" y="78" text-anchor="middle" fill="white" font-family="Segoe UI,Arial" font-size="14" font-weight="700">TS</text><text x="786" y="76" text-anchor="middle" fill="#bfdbfe" font-family="Segoe UI,Arial" font-size="12" font-weight="700">SCRIPT</text>
+  <rect x="827" y="45" width="125" height="52" rx="13" fill="#1f1828"/><circle cx="850" cy="71" r="12" fill="#8b5cf6"/><path d="M844 70h12m-8-5-4 5 4 5" fill="none" stroke="white" stroke-width="2"/><text x="906" y="76" text-anchor="middle" fill="#ddd6fe" font-family="Segoe UI,Arial" font-size="12" font-weight="700">REST APIs</text>
+  <rect x="60" y="113" width="880" height="2" rx="1" fill="url(#line)">
+    <animate attributeName="x" values="30;60;30" dur="5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
